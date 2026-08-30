@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Bandicam interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Premiere_Pro_screenshot.png/1280px-Premiere_Pro_screenshot.png" />
+<img width="2880" height="1620" alt="Bandicam interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bandicam-screen-recorder.png/1280px-Bandicam-screen-recorder.png" />
 </div>
 
 ---
